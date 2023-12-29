@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divyansh
 - 👀 I’m interested in learning new things and making modern projects
-- 🌱 I’m currently learning Web Development and Programming
+- 🌱 I'm currently pursuing Bachelors in Computer Science from Arizona State University
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me ... You can reach me on instagram ... @divyansh_chandarana
 
